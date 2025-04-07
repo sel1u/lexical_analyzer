@@ -1,1 +1,1 @@
-# lexical_analyzer
+This code implements a lexical analyzer in C++ that reads user input and breaks it into tokens such as identifiers, operators, literals, and punctuation symbols. The analyzer classifies each token according to predefined rules (based on a reference table), and displays its type and value. The program continues reading input until the user types "exit" to stop it.
